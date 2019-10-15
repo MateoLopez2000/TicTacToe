@@ -1,0 +1,9 @@
+C:\Users\User\source\repos\NewTicTac\ttt4\bin\Debug\ttt4.exe.config
+C:\Users\User\source\repos\NewTicTac\ttt4\bin\Debug\ttt4.exe
+C:\Users\User\source\repos\NewTicTac\ttt4\bin\Debug\ttt4.pdb
+C:\Users\User\source\repos\NewTicTac\ttt4\obj\Debug\ttt4.csprojAssemblyReference.cache
+C:\Users\User\source\repos\NewTicTac\ttt4\obj\Debug\ttt4.Form1.resources
+C:\Users\User\source\repos\NewTicTac\ttt4\obj\Debug\ttt4.Properties.Resources.resources
+C:\Users\User\source\repos\NewTicTac\ttt4\obj\Debug\ttt4.csproj.GenerateResource.cache
+C:\Users\User\source\repos\NewTicTac\ttt4\obj\Debug\ttt4.exe
+C:\Users\User\source\repos\NewTicTac\ttt4\obj\Debug\ttt4.pdb
