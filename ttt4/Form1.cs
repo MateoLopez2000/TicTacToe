@@ -16,5 +16,11 @@ namespace ttt4
         {
             InitializeComponent();
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            Media_Player player = new Media_Player();
+            player.musica_fondo();
+        }
     }
 }

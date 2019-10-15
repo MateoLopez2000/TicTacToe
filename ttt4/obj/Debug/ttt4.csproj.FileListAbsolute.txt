@@ -1,0 +1,14 @@
+C:\Users\froil\Desktop\ENRAYA\ttt4\bin\Debug\bites-ta-da-winner.wav
+C:\Users\froil\Desktop\ENRAYA\ttt4\bin\Debug\music_empate.wav
+C:\Users\froil\Desktop\ENRAYA\ttt4\bin\Debug\poner_moneda.wav
+C:\Users\froil\Desktop\ENRAYA\ttt4\bin\Debug\Solve The Puzzle.wav
+C:\Users\froil\Desktop\ENRAYA\ttt4\bin\Debug\ttt4.exe.config
+C:\Users\froil\Desktop\ENRAYA\ttt4\bin\Debug\ttt4.exe
+C:\Users\froil\Desktop\ENRAYA\ttt4\bin\Debug\ttt4.pdb
+C:\Users\froil\Desktop\ENRAYA\ttt4\obj\Debug\ttt4.csprojAssemblyReference.cache
+C:\Users\froil\Desktop\ENRAYA\ttt4\obj\Debug\ttt4.Form1.resources
+C:\Users\froil\Desktop\ENRAYA\ttt4\obj\Debug\ttt4.Properties.Resources.resources
+C:\Users\froil\Desktop\ENRAYA\ttt4\obj\Debug\ttt4.csproj.GenerateResource.cache
+C:\Users\froil\Desktop\ENRAYA\ttt4\obj\Debug\ttt4.csproj.CoreCompileInputs.cache
+C:\Users\froil\Desktop\ENRAYA\ttt4\obj\Debug\ttt4.exe
+C:\Users\froil\Desktop\ENRAYA\ttt4\obj\Debug\ttt4.pdb
